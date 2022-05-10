@@ -22,7 +22,7 @@ function checkDelete(){
         
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="Accueil.php">Accueil
+          <a class="nav-link active" href="index.php">Accueil
             <span class="visually-hidden">(current)</span>
           </a>
         </li>
