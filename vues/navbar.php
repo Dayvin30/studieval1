@@ -28,7 +28,7 @@ function checkDelete(){
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="Event.php">Evenements
+          <a class="nav-link" href="event.php">Evenements
             <span class="visually-hidden">(current)</span>
           </a>
         </li>
